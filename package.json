@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node --watch  server.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
